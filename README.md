@@ -13,3 +13,6 @@ FIFA Rankings dataset: https://www.kaggle.com/datasets/cashncarry/fifaworldranki
 International Matches dataset: https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022
 
 
+
+
+https://blog.jovian.ai/exploratory-data-analysis-of-international-football-history-c983063c9fdb

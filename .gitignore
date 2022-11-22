@@ -2,4 +2,7 @@
 venv/
 
 *.csv
+*.xls
+
 *.png
+*.jpg
