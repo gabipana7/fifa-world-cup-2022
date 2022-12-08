@@ -40,3 +40,9 @@
 
 ### 4. Players Dataset
 - (kaggle) FIFA23 Official Dataset: https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database
+
+
+Images Credits:
+Page 1: https://www.pcclean.io/football-stadium-wallpapers-hd-background-images-photos-pictures/
+Page 2: Wikipedia https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1996.jpg
+Page 3: EA Sports (FIFA 23)
