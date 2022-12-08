@@ -43,6 +43,6 @@
 
 
 Images Credits:
-Page 1: https://www.pcclean.io/football-stadium-wallpapers-hd-background-images-photos-pictures/
-Page 2: Wikipedia https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1996.jpg
-Page 3: EA Sports (FIFA 23)
+- Page 1: https://www.pcclean.io/football-stadium-wallpapers-hd-background-images-photos-pictures/
+- Page 2: Wikipedia https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1996.jpg
+- Page 3: EA Sports (FIFA 23)
