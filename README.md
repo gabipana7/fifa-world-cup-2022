@@ -47,3 +47,9 @@ Images Credits:
 - Page 2: Wikipedia https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1996.jpg
 - Page 3: EA Sports (FIFA 23)
 
+Shapefile Map Credits:
+- https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries-sans-antarctica.json
+
+
+Reupload of modified data, on my kaggle page:
+- https://www.kaggle.com/datasets/gabipana7/fifa-rankings-and-international-matches-1992-2022
